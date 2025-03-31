@@ -29,10 +29,9 @@
 
 ## How to Reach Me 📞
 - 📧 Email: spnirmal02@gmail.com
-- 👨‍💻 LinkedIn: [Your LinkedIn](https://linkedin.com/in/nirmal-kumar-655520226)
-- 💻 GitHub: [Your GitHub](https://github.com/spnirmal)
+- 👨‍💻 LinkedIn: [nirmal-kumar](https://linkedin.com/in/nirmal-kumar-655520226)
+- 💻 GitHub: [spnirmal](https://github.com/spnirmal)
 
 ---
 
-Feel free to fork and modify this template! Let me know if you need help setting up your repositories.
 
