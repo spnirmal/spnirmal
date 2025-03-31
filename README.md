@@ -24,7 +24,7 @@
 ### 🏠 Verilog-Based Washing Machine Controller (FSM)
 - Designed a Verilog-based finite state machine (FSM) to control washing machine operations.
 - Simulated using GTKWave.
-- **Repo:** [Washing-Machine-FSM](https://github.com/your-username/Washing-Machine-FSM)
+- **Repo:** [Washing-Machine-FSM](https://github.com/spnirmal/Washing-Machine-FSM)
 
 
 ## How to Reach Me 📞
