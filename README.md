@@ -17,10 +17,6 @@
 - Implemented a MIPS processor with instruction fetch, decode, execute, memory access, and write-back.
 - **Repo:** [MIPS-Pipeline](https://github.com/spnirmal/MIPS-Pipeline)
 
-### 🔬 FPGA-Based Guitar Pedal
-- Real-time audio processing with FFT and IIR filters.
-- **Repo:** [FPGA-Guitar-Pedal](https://github.com/spnirmal/FPGA-Guitar-Pedal)
-
 ### 🏠 Verilog-Based Washing Machine Controller (FSM)
 - Designed a Verilog-based finite state machine (FSM) to control washing machine operations.
 - Simulated using GTKWave.
