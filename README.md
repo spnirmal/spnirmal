@@ -1,41 +1,40 @@
 # Hi, I'm Nirmal Kumar
 
 ## About Me
-I am currently working on digital design, embedded systems, and signal processing. My work focuses on FPGA-based systems, Verilog HDL, and real-time computing applications. I am especially interested in building efficient and hardware-accelerated solutions for signal processing and embedded control.
+
+I'm an embedded systems and hardware engineer focused on solving real-world problems using efficient circuit design, embedded C, and signal processing. I specialize in building robust hardware-software systems from scratch — from schematics to firmware — with a keen eye on reliability, power efficiency, and real-time performance.
 
 ### Areas of Interest
-- FPGA and Digital Signal Processing (DSP)
-- Real-time system design
-- Custom hardware projects (e.g., guitar pedal using FPGA)
-- Computer architecture and low-level design
+
+* Embedded systems (bare-metal + RTOS)
+* Custom hardware design (analog/digital)
+* Power management & battery systems
+* Real-time data acquisition and control
+* Signal processing applications on microcontrollers
 
 ## Technical Skills
 
-**Hardware Platforms**
-- FPGA: Tang Nano 9k, ESP32
-- Interfaces: I2S, I2C, SPI, UART, SRAM, ADC/DAC
+**Hardware & Tools**
 
-**Programming & Scripting Languages**
-- Verilog, SystemVerilog, C, Assembly (MIPS), MATLAB
+* STM32, ESP32, KiCad, ADC/DAC
+* Protocols: UART, I2C, SPI, I2S ,CAN
+* Battery management circuits, voltage monitoring, low-power design
 
-**Design & Simulation Tools**
-- Icarus Verilog (iverilog), GTKWave, ModelSim, Vivado, KiCad, Cadence Virtuoso
+**Programming & Tools**
 
-## Featured Projects
+* Embedded C, FreeRTOS, Python (for scripting/debug), MATLAB
+* STM32CubeIDE, STM32 HAL/LL drivers, logic analyzers, oscilloscopes
 
-### MIPS 5-Stage Pipelined Processor
-Designed and simulated a MIPS processor with a 5-stage pipeline (Fetch, Decode, Execute, Memory, Write Back). Demonstrates instruction flow, data path control, and register operations.
-- [View Repository](https://github.com/spnirmal/MIPS-Pipeline)
+## Selected Projects
 
-### Verilog-Based Washing Machine Controller (FSM)
-Developed a finite state machine (FSM) in Verilog to simulate the control logic of a washing machine. The project includes state transitions for filling, washing, rinsing, and spinning.
-- [View Repository](https://github.com/spnirmal/Washing-Machine-FSM)
+* **Battery Health Monitoring System:** Designed and built a coin cell discharge monitor with ADC sampling, SD card CSV logging, and low-voltage detection — all under FreeRTOS.
+* **Signal Processing Projects:** Implemented real-time signal capture and analysis pipelines using microcontrollers.
+* **Custom Circuits:** Developed cell balancing circuits and control systems using discrete components and custom PCBs.
+
+*Each project has a dedicated README for in-depth details.*
 
 ## Contact
 
-**Email:** spnirmal02@gmail.com  
-**LinkedIn:** [linkedin.com/in/nirmal-kumar-655520226](https://linkedin.com/in/nirmal-kumar-655520226)  
-**GitHub:** [github.com/spnirmal](https://github.com/spnirmal)
-
-
-
+📧 [spnirmal02@gmail.com](mailto:spnirmal02@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/nirmal-kumar-655520226)
+💻 [GitHub](https://github.com/spnirmal)
