@@ -25,10 +25,10 @@ I'm an embedded systems and hardware engineer focused on solving real-world prob
 * Embedded C, FreeRTOS, Python (for scripting/debug), MATLAB
 * STM32CubeIDE, STM32 HAL/LL drivers, logic analyzers, oscilloscopes
 
-## Selected Projects
+## Featured Projects
 
 * **Battery Health Monitoring System:** Designed and built a coin cell discharge monitor with ADC sampling, SD card CSV logging, and low-voltage detection — all under FreeRTOS.
-* [**Signal Processing Projects:**](https://github.com/spnirmal/Washing-Machine-FSM) Implemented real-time signal capture and analysis pipelines using microcontrollers.
+* [**Washing Machine FSM using verilog:**](https://github.com/spnirmal/Washing-Machine-FSM) Modeled the control logic of a washing machine using a finite state machine in Verilog, simulating fill, wash, rinse, and spin cycles.
 * **Custom Circuits:** Developed cell balancing circuits and control systems using discrete components and custom PCBs.
 
 *Each project has a dedicated README for in-depth details.*
