@@ -28,7 +28,7 @@ I'm an embedded systems and hardware engineer focused on solving real-world prob
 ## Selected Projects
 
 * **Battery Health Monitoring System:** Designed and built a coin cell discharge monitor with ADC sampling, SD card CSV logging, and low-voltage detection — all under FreeRTOS.
-* **Signal Processing Projects:** Implemented real-time signal capture and analysis pipelines using microcontrollers.
+* [**Signal Processing Projects:**](https://github.com/spnirmal/Washing-Machine-FSM) Implemented real-time signal capture and analysis pipelines using microcontrollers.
 * **Custom Circuits:** Developed cell balancing circuits and control systems using discrete components and custom PCBs.
 
 *Each project has a dedicated README for in-depth details.*
