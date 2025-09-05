@@ -29,7 +29,7 @@ I'm an embedded systems and hardware engineer focused on solving real-world prob
 ## Featured Projects
 
 * [**Battery Voltage Logger with Sleep Mode Using STM32 + FreeRTOS:**](https://github.com/spnirmal/Battery-Voltage-Logger-with-Sleep-Mode-Using-STM32-FreeRTOS) Designed and built a coin cell discharge monitor with ADC sampling and low-voltage detection — all under FreeRTOS.
-* [**Custom GPIO LED Character Driver with Userspace Toggle on Embedded Linux (QEMU)**]() A custom Linux character driver for GPIO LED control, developed with cross-compilation and tested on the QEMU ARM versatilepb platform.
+* [**Custom GPIO LED Character Driver with Userspace Toggle on Embedded Linux (QEMU)**](https://github.com/spnirmal/custom-gpio-led-character-driver-qemu-embedded-linux) A custom Linux character driver for GPIO LED control, developed with cross-compilation and tested on the QEMU ARM versatilepb platform.
 * [**Washing Machine FSM using verilog:**](https://github.com/spnirmal/Washing-Machine-FSM) Modeled the control logic of a washing machine using a finite state machine in Verilog, simulating fill, wash, rinse, and spin cycles.
 * **Custom Circuits:** Developed cell balancing circuits and control systems using discrete components and custom PCBs.
 
