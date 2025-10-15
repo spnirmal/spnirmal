@@ -30,7 +30,7 @@ I'm an embedded systems and hardware engineer focused on solving real-world prob
 
 * [**Battery Voltage Logger with Sleep Mode Using STM32 + FreeRTOS:**](https://github.com/spnirmal/Battery-Voltage-Logger-with-Sleep-Mode-Using-STM32-FreeRTOS) Designed and built a coin cell discharge monitor with ADC sampling and low-voltage detection — all under FreeRTOS.
 * [**Custom GPIO LED Character Driver with Userspace Toggle on Embedded Linux (QEMU)**](https://github.com/spnirmal/custom-gpio-led-character-driver-qemu-embedded-linux) A custom Linux character driver for GPIO LED control, developed with cross-compilation and tested on the QEMU ARM versatilepb platform.
-* [**STM32 GPIO DRIVER:**](https://github.com/spnirmal/stm32f030r8-GPIO-driver) Developed driver script for STM32F030R8 NUCLEO Board using C by writing custom linkerscript and startup file.
+* [**STM32-f030r8 DRIVERS:**](https://github.com/spnirmal/stm32-f030r8-drivers) Developed driver script for STM32F030R8 NUCLEO Board using C by writing custom linkerscript and startup file.
 * **Custom Circuits:** Developed cell balancing circuits and control systems using discrete components and custom PCBs.
 
 *Each project has a dedicated README for in-depth details.*
