@@ -27,7 +27,7 @@ I'm an embedded firmware and systems engineer focused on solving real-world prob
 * Embedded C, FreeRTOS
 * C++ (learning for systems programming)
 * Python (scripting, debugging, tooling)
-* Embedded Linux (learning and hands-on experimentation)
+* Embedded Linux
 * STM32CubeIDE, HAL/LL drivers
 * Firmware debugging and performance analysis tools
 
